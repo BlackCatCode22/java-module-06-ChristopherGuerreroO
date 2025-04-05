@@ -1,0 +1,4 @@
+Unknown Habitat:
+Hy01;  Kamari; birth date: 2021-03-21; tan color; female; 70.0 pounds; from from Friguia Park; arrived 2025-04-05
+Li01;  Simba; birth date: 2019-12-21; golden color; male; 400.0 pounds; from from Serengeti; arrived 2025-04-05
+

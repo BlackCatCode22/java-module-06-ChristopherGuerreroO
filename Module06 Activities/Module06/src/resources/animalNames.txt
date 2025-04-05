@@ -1,0 +1,4 @@
+hyena: Kamari, Nia, Jabari
+lion: Simba, Nala, Mufasa
+tiger: Rajah, Shere Khan, Tigger
+bear: Baloo, Paddington, Winnie
